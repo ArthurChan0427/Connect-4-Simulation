@@ -1,10 +1,10 @@
 Included Files:
    /Objects
-       Board.py
-       Computer.py
-       Input_cursor.py
-       Piece.py
-       Screen.py
+   Board.py
+   Computer.py
+   Input_cursor.py
+   Piece.py
+   Screen.py
    /Scenes
        Game_over.py
        Instruction.py
