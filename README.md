@@ -21,8 +21,9 @@ Included Files:
     
 Running Instructions:
 
-    1. Navigate to the folder containing the file "Connect4.py"
-    2. Open the terminal and enter the command "python3 Connect4.py"
+    1. Download and install the Pygame module
+    2. Navigate to the folder containing the file "Connect4.py"
+    3. Open the terminal and enter the command "python3 Connect4.py"
         
 Notes and Assumptions:
 
